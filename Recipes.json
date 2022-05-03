@@ -17,7 +17,7 @@
       "CookTime": "5mins",
       "RecipeDifficulty": "Easy",
       "RecipeServing": "12",
-      "RecipeIngredients": ["2 cups rye whiskey", "1 cup fresh lemon juice", "1 tcup pomegranate juice", "1/2 cup honey simple syrup", "1/2 cup Luxardo Maraschino liqueur", "1 12-oz. can club soda", "pomegranate seeds and fresh rosemary for garnishes"],
+      "RecipeIngredients": ["2 cups rye whiskey", "1 cup fresh lemon juice", "1 tcup pomegranate juice", "1/2 cup honey simple syrup", "1/2 cup Luxardo Maraschino liqueur", "1 12-oz. can club soda", "pomegranate seeds and fresh rosemary"],
       "RecipeInstructions": ["Combine rye, lemon juice, pomegranate juice, honey simple syrup, liqueur, and bitters in a punch bowl and chill until cold, about 3 hours.", "Thirty minutes before serving, add ice cubes or ice ring (the punch tastes better slightly diluted).", "Just before serving, add club soda and garnish with cloves. Serve over ice."],
       "RecipeNutrition": "Serving Size 1 drink / Calories 111 / Protein 11 g / Carbohydrate 31 g / Dietary Fiber 0 g / Total Sugars 24 g / Total Fat 14 g / Saturated Fat 2 g / Cholesterol 12 mg",
       "RecipeImage1": "https://raw.githubusercontent.com/nle16/JSONProjectsIT315/master/pomegranate%20.jpg",
