@@ -47,6 +47,18 @@
       "RecipeImage1": "https://raw.githubusercontent.com/nle16/JSONProjectsIT315/master/chamomile.jpg",
       "RecipeImage2": "https://raw.githubusercontent.com/nle16/JSONProjectsIT315/master/cingredients.jpg",
       "RecipeURL": "https://www.eatingwell.com/recipe/261083/herbal-chamomile-health-tonic/"},
+    
+    { "RecipeName": "Vanilla Chai Latte",
+      "PrepTime": "10mins",
+      "CookTime": "0mins",
+      "RecipeDifficulty": "Easy",
+      "RecipeServing": "1",
+      "RecipeIngredients": ["1 teaspoon Homemade Chai Spices", "1 cup water", "1 bag black tea", "1/2 cup fresh 2% milk (or whole milk)", "1 teaspoon vanilla", "1 tablespoon pure maple syrup", "Whipped cream, for serving"],
+      "RecipeInstructions": ["In 2-quart saucepan, heat water, cinnamon and cardamom to boiling over high heat, stirring occasionally.", "Remove from heat; add tea bags. Let stand 5 minutes. Strain tea; discard spices and tea bags.", "Return tea mixture to saucepan; stir in milk. Heat over medium heat, stirring occasionally, until hot. Pour into mug and top with cream. Serve immediately!"],
+      "RecipeNutrition": "Serving Size 1 drink / Calories 213 / Protein 12 g / Carbohydrate 1 g / Dietary Fiber 7 g / Total Sugars 26 g / Total Fat 2 g / Saturated Fat 6 g / Cholesterol 11 mg",
+      "RecipeImage1": "https://raw.githubusercontent.com/nle16/JSONProjectsIT315/master/vanillachai.jpg",
+      "RecipeImage2": "https://raw.githubusercontent.com/nle16/JSONProjectsIT315/master/vingredients.jpg",
+      "RecipeURL": "https://www.acouplecooks.com/vanilla-chai-latte/"},
 
     { "RecipeName": "Homemade Apple Cider",
       "PrepTime": "10mins",
